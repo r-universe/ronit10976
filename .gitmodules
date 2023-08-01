@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "stlARIMA"]
-	path = stlARIMA
-	url = https://github.com/cran/stlARIMA
 [submodule "TSdeeplearning"]
 	path = TSdeeplearning
 	url = https://github.com/cran/TSdeeplearning
+[submodule "stlARIMA"]
+	path = stlARIMA
+	url = https://github.com/cran/stlARIMA
